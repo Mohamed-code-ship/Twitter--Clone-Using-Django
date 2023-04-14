@@ -1,7 +1,7 @@
 # clone
 
 
-🕊 Twirrer - Twitter Clone using Django 🕊
+🕊 Musker - Twitter Clone using Django 🕊
 
 
 Technologies Used 👨🏽‍💻:
