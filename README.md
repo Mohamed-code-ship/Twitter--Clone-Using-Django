@@ -1,4 +1,4 @@
-# clone
+# Twitter-clone
 
 
 🕊 Musker - Twitter Clone using Django 🕊
