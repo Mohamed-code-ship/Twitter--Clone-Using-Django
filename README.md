@@ -6,11 +6,11 @@
 
 Technologies Used 👨🏽‍💻:
 
-Python
-Django
-Sqlite3 Database
-HTML, CSS, JavaScript
-Bootstrap
+Python<br>
+Django<br>
+Sqlite3 Database<br>
+HTML, CSS, JavaScript<br>
+Bootstrap<br>
 
 
 Features 📋
